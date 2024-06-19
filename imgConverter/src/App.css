@@ -1,0 +1,12 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #9a9a9a;
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+h1 {
+  margin-bottom: 20px;
+}

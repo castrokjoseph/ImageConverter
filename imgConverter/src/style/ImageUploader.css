@@ -1,0 +1,25 @@
+.container {
+  text-align: center;
+  background: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin: 20px auto;
+  max-width: 600px;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+#result {
+  margin-top: 20px;
+}
+
+#output {
+  max-width: 100%;
+  height: auto;
+}
+#ImageUploader {
+  justify-content: center;
+}
